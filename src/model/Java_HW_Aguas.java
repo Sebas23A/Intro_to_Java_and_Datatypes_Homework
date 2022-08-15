@@ -8,7 +8,8 @@ public class Java_HW_Aguas {
 	int secondFavNumber = 23;
 	
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// This is the Second Commit, testing PUSH	
+		// It will only be seen after Commit
 		
 		// Can't convert from String to int
 		int error1 = "Nan";
